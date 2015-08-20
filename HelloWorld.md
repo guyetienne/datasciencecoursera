@@ -1,1 +1,1 @@
-HelloWord.md is file created for a class project
+HelloWord.md is a file created for a class project
